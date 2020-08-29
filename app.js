@@ -15,7 +15,7 @@ switch (comando) {
         listarTabla(argv.base, argv.limite)
         break;
     default:
-        console.log('No existe este comando');
+        console.log('No existe este comando en new feature');
 }
 
 //const yargs = require("yargs");
